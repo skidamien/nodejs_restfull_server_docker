@@ -1,0 +1,14 @@
+{
+  "name": "restfull_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "restfull_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
